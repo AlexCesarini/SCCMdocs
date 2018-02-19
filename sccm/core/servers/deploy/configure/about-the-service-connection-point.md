@@ -101,6 +101,10 @@ To enable operation, the computer that hosts the service connection point and an
 
 -   sccmconnected-a01.cloudapp.net  
 
+**Upgrade Readiness**
+
+-   management.azure.com
+
 **Microsoft Intune**  
 
 -   *manage.microsoft.com  
